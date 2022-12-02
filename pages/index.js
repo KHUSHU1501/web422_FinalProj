@@ -1,11 +1,12 @@
 /*********************************************************************************
- * WEB422 – Assignment 6
- * I declare that this assignment is my own work in accordance with Seneca Academic Policy.
- * No part of this assignment has been copied manually or electronically from any other source
- * (including web sites) or distributed to other students.
+ * WEB422 – Assignment 06
+ * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
+ * assignment has been copied manually or electronically from any other source (including web sites) or
+ * distributed to other students.
  *
- * Name: ___Khushwant Singh Rao______ Student ID: ___145931192______ Date: ____Nov 19, 2022_______
+ * Name: __Khushwant Singh Rao__ Student ID: __145931192__ Date: __Dec 2, 2022__
  *
+ * Vercel App (Deployed) Link: https://web422-final-proj.vercel.app/
  *
  ********************************************************************************/
 
